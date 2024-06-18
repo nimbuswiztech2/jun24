@@ -1,0 +1,22 @@
+Chapter 1: What is Linux?
+The first thing that we need to talk about in this book is about the origins of the
+Linux. In a nutshell, Linux is an operating system. For those of you who do not
+know what an operating system is, and for all of you who think you do but may
+have forgotten what an operating system is, it is actually the software layer that is
+between your hardware and the software that allows you to get something
+productive done on a computer.
+The operating system is what allows the software to talk to the hardware. It is the
+one that lets you store information on hard drives, send out print jobs to printers,
+etc. If you are in a normal Windows environment—a Microsoft Windows
+Operating system—you have your hardware at the bottom, you have the Windows
+operating system on top of that, and then you have Microsoft Office, for example,
+that sits on top of the operating system.
+Linux is an operating system that acts as an intermediary—i.e. a bridge—between
+the physical device and the instructional code of a program. The main thing that
+you just need to realize is that in the Linux world, the software that you will be
+running is of a completely different type, compared to the ones that you would run
+in the Windows operating system. Desktop applications like Microsoft Office and
+Adobe Photoshop are not usually run on a Linux environment. Linux normally
+runs servers—Apache web servers, database servers, web virtualization servers,
+etc.
+
